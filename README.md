@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Tchandra Yahoel Camacho Llanes \[19212376]; L19212376@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
